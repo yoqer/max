@@ -38,7 +38,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 *pyc*
-#*.env
+# Environment files (keep examples)
+*.env
+!*.env.example
 .ac
 agenthub/agents/youtube/db
 *credentials.json*

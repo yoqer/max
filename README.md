@@ -251,7 +251,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ¿Tienes preguntas o necesitas ayuda?
 
-- 📧 Email: soporte@navegador.com
+- 📧 Email: info@maxxine.net
 - 🐛 Issues: [GitHub Issues](../../issues)
 - 📖 Documentación: [Wiki](../../wiki)
 

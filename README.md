@@ -57,7 +57,7 @@ Una aplicación web full-stack moderna para monitoreo de estado de clientes, con
 
 1. **Clonar el repositorio**
 ```bash
-git clone <your-repo-url>
+git clone <Repo: yoqer/max>
 cd navegador
 ```
 
